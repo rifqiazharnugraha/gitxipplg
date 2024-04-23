@@ -6,6 +6,6 @@
     <title>Login</title>
 </head>
 <body>
-    <h1>Halaman Login Admin XI PPLG</h1>
+    <h1>Login Admin</h1>
 </body>
 </html>
